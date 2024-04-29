@@ -1,2 +1,2 @@
 # Propriedades-Css1
-Códigos de estudo css utilizandi algumas propriedades do background
+Códigos de estudo css utilizand0 algumas propriedades do background
